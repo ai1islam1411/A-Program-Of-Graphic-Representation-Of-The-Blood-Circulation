@@ -5,16 +5,20 @@ https://insantechnology.com */
 
 #include<stdio.h>
 #include<stdlib.h>
+#include<math.h>
+#include <cmath>
+#include <SFML/Graphics.hpp>
 #include <stdbool.h>
 #include <SDL2/SDL.h>
-#include<math.h>
+#include <GL/glut.h>
+#include <GL/gl.h>
+#include <GL/glu.h>
 #include<map.h>
 #include<string.h>
 #include<stack.h>
 #include <time.h>
 #include<iostream>
 #include<iomanip>
-#include <SFML/Graphics.hpp>
 #define no_of_nodes 8
 #define size 10
 #define areaofVessels 1	 //1cm^3
