@@ -5,6 +5,8 @@ https://insantechnology.com */
 
 #include<stdio.h>
 #include<stdlib.h>
+#include <stdbool.h>
+#include <SDL2/SDL.h>
 #include<math.h>
 #include<map.h>
 #include<string.h>
