@@ -12,6 +12,7 @@ https://insantechnology.com */
 #include <time.h>
 #include<iostream>
 #include<iomanip>
+#include <SFML/Graphics.hpp>
 #define no_of_nodes 8
 #define size 10
 #define areaofVessels 1	 //1cm^3
